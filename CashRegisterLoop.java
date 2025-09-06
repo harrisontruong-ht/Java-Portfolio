@@ -2,7 +2,7 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class firstproject {
+public class CashRegisterLoop {
     public static void main(String[] args) {
 
         //keep track of total amount
