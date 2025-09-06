@@ -33,7 +33,7 @@ public class CashRegisterLoop {
                     validInput = true;
                 }
                 else {
-                    System.out.print("Invalid input. Please enter a number with exactly two decimal places: $");
+                    System.out.println("Invalid input. Please enter a number with exactly two decimal places.");
                 }
             }
         }
